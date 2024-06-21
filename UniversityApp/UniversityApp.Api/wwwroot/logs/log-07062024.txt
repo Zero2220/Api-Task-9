@@ -1,0 +1,22 @@
+
+=======================REQUEST===========================
+POST - https://localhost:7061/api/Groups - Fri-06-2024 17:22:22
+{
+  "no": "strin",
+  "limit": 18
+}
+
+=======================RESPONSE===========================
+409 - https://localhost:7061/api/Groups - Fri-06-2024 17:22:23
+{"type":"https://tools.ietf.org/html/rfc9110#section-15.5.10","title":"Conflict","status":409,"traceId":"00-64d747ab346b1272bf0565304b906d97-695837645141eadf-00"}
+
+=======================REQUEST===========================
+POST - https://localhost:7061/api/Groups - Fri-06-2024 17:22:39
+{
+  "no": "Btrin",
+  "limit": 18
+}
+
+=======================RESPONSE===========================
+201 - https://localhost:7061/api/Groups - Fri-06-2024 17:22:39
+{"id":19}

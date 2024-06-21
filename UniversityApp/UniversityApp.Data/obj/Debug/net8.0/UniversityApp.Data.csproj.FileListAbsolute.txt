@@ -1,0 +1,124 @@
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\4. 06-06-2024\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\05. 07-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\6. 10-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\7. 11-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\8. 12-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.sourcelink.json
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\elchin\Desktop\CodeLesson\API\9. 14-06-2024\PB302_API_1\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.deps.json
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.runtimeconfig.json
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.dll
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\bin\Debug\net8.0\UniversityApp.Core.pdb
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.AssemblyInfo.cs
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\Universi.B0340F78.Up2Date
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.dll
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\refint\UniversityApp.Data.dll
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.pdb
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\UniversityApp.Data.genruntimeconfig.cache
+C:\Users\Asus\Desktop\UniversityApp\UniversityApp.Data\obj\Debug\net8.0\ref\UniversityApp.Data.dll

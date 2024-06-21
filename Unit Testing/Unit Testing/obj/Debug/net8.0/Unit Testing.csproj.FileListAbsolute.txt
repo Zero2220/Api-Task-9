@@ -1,0 +1,32 @@
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.exe
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.deps.json
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.runtimeconfig.json
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Unit Testing.pdb
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Tes.8DB5CEBD.Up2Date
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\refint\Unit Testing.dll
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.pdb
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\Unit Testing.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Unit Testing\Unit Testing\obj\Debug\net8.0\ref\Unit Testing.dll

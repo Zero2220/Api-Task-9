@@ -1,0 +1,8 @@
+
+=======================REQUEST===========================
+GET - https://localhost:7061/api/Groups - Mon-06-2024 15:09:13
+
+
+=======================RESPONSE===========================
+200 - https://localhost:7061/api/Groups - Mon-06-2024 15:09:15
+[{"id":3,"no":"P328","limit":5},{"id":5,"no":"P231","limit":14},{"id":8,"no":"strin","limit":18},{"id":9,"no":"DDin","limit":18},{"id":10,"no":"Rrin","limit":18},{"id":11,"no":"Drin","limit":18},{"id":12,"no":"Trtt","limit":18},{"id":13,"no":"Yrin","limit":18},{"id":14,"no":"urin","limit":18},{"id":15,"no":"GGin","limit":18},{"id":16,"no":"sDin","limit":18},{"id":17,"no":"Arin","limit":18},{"id":18,"no":"Trin","limit":18},{"id":19,"no":"Btrin","limit":18}]

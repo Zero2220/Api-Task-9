@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\UniversityApp\\UniversityApp.Api\\wwwroot\\logs\\log-07062024.txt",
+      "PackagePath": "staticwebassets\\logs\\log-07062024.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\UniversityApp\\UniversityApp.Api\\wwwroot\\logs\\log-10062024.txt",
+      "PackagePath": "staticwebassets\\logs\\log-10062024.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\UniversityApp\\UniversityApp.Api\\wwwroot\\logs\\log1.txt",
+      "PackagePath": "staticwebassets\\logs\\log1.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\8326e1db-010b-48f8-a7d9-3bb0352f7ce1davamiyyət.png",
+      "PackagePath": "staticwebassets\\uploads\\students\\8326e1db-010b-48f8-a7d9-3bb0352f7ce1davamiyyət.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\UniversityApp\\UniversityApp.Api\\wwwroot\\uploads\\students\\cfbf3295-67d6-43fa-b63b-f52bb0725cc3davamiyyət.png",
+      "PackagePath": "staticwebassets\\uploads\\students\\cfbf3295-67d6-43fa-b63b-f52bb0725cc3davamiyyət.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UniversityApp.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UniversityApp.Api.props",
+      "PackagePath": "build\\UniversityApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UniversityApp.Api.props",
+      "PackagePath": "buildMultiTargeting\\UniversityApp.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UniversityApp.Api.props",
+      "PackagePath": "buildTransitive\\UniversityApp.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
